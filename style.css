@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: #00ff26;
+}
+
+.Imag {
+    height: 450px;
+    width: 450px;
+    border-width: 35px;
+    border-color: #00b3ff;
+    border-radius: 50px;
+}
+
+.Name {
+    color:
+        #006317;
+}
+
+h1 {
+    color: 
+#006317
+;
+}
